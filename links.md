@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
+* [Favorite Author](http://en.wikipedia.org/wiki/George_Orwell)
 * [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [My home city](http://www.tehran.ir)
+* [My university](http://www.iust.ac.ir)
 
