@@ -14,7 +14,7 @@ gallery:
   - url: /assets/images/11.jpg
     image_path: /assets/images/11.jpg
     alt: "placeholder image 2"
-    title: "a snowy day at Damavand"
+    title: "a snowy day in Damavand"
   - url: /assets/images/12.jpg
     image_path: /assets/images/12.jpg
     alt: "placeholder image 3"
