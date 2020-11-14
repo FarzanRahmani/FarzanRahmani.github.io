@@ -7,26 +7,26 @@ tags: [gallery]
 modified: 9-14-2019
 comments: false
 gallery:
-  - url: /assets/images/1.jpg
-    image_path: /assets/images/1.jpg
+  - url: /assets/images/8.jpg
+    image_path: /assets/images/8.jpg
     alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/2.jpg
-    image_path: /assets/images/2.jpg
+    title: "my ancestor's hometown"
+  - url: /assets/images/11.jpg
+    image_path: /assets/images/11.jpg
     alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/3.jpg
-    image_path: /assets/images/3.jpg
+    title: "a snowy day at Damavand"
+  - url: /assets/images/12.jpg
+    image_path: /assets/images/12.jpg
     alt: "placeholder image 3"
-    title: "Image 3 title caption"  
-  - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+    title: "a difficult day at university of Tehran"  
+  - url: /assets/images/7.jpg
+    image_path: /assets/images/7.jpg
     alt: "placeholder image 4"
-    title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
+    title: "My love"
+  - url: /assets/images/6.jpg
+    image_path: /assets/images/6.jpg
     alt: "placeholder image 5"
-    title: "Image 5 title caption"    
+    title: "a great day in north of Iran"    
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
