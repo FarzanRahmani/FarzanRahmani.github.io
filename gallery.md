@@ -29,5 +29,5 @@ gallery:
     title: "a great day in north of Iran"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
-
+<!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
+{% include gallery caption="This is a sample gallery of **Farzan's life**." %}
