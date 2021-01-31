@@ -26,7 +26,11 @@ gallery:
   - url: /assets/images/6.jpg
     image_path: /assets/images/6.jpg
     alt: "placeholder image 5"
-    title: "a great day in north of Iran"    
+    title: "a great day in north of Iran"   
+  - url: /assets/images/6.jpg
+    image_path: /assets/images/lahze.jpg
+    alt: "placeholder image 6"
+    title: "exam"    
 ---
 
 <!-- {% include gallery caption="This is a sample gallery with **Markdown support**." %} -->
