@@ -3,6 +3,7 @@ layout: posts
 title: My Music Project
 ---
 
+##پروژه موسیقی من
 یکی از پروژه هایی که ما در ترم اول انجام دادیم موسیقی بود.پروژه موسیقی که ما در این ترم انجام دادیم  برای آشنایی با یک زبان برنامه نویسی جدید و مهم تر از همه برای علاقه مند تر شدن ما به مهندسی کامپیوتر بود. 
 ما برای این کار از برنامه Sonic Pi استفاده کردیم که برنامه بسیار جالبی است و پیشنهاد میکنم حتما آن را دانلود و از آن استفاده کنید.
 در مرحله اول با کمک های دکتر اعتمادی خانم خزایی کلاسی راجع به مباحث ابتدایی موسیقی به ویژه پیانو برایمان گذاشت.
@@ -21,6 +22,10 @@ title: My Music Project
 
 [![music project](../assets/images/sonicpi.PNG)](https://soundcloud.com/farzan-rahmani-74628015/my-project-music)
 
-[link to my music](https://soundcloud.com/farzan-rahmani-74628015/my-project-music)
+[link to my music on soundcloud](https://soundcloud.com/farzan-rahmani-74628015/my-project-music)
+
+<audio controls>
+    <source src="../assets/sonicpi/rahmani.wav" type="audio/wav">
+</audio>
 
 ---
